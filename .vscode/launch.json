@@ -1,0 +1,14 @@
+{
+	"configurations": [
+		{
+			"type": "java",
+			"name": "Spring Boot-DemoApplication<backend>",
+			"request": "launch",
+			"cwd": "${workspaceFolder}",
+			"console": "integratedTerminal",
+			"mainClass": "com.stafford.backend.DemoApplication",
+			"projectName": "backend",
+			"args": ""
+		}
+	]
+}
